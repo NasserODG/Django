@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block title %}All gifs{% endblock %}
+
+{% block content%}
+    <h3>All categories</h3>
+    <div>
+    {% for cat in categories %}
+        <a href = "{% url 'category' cat.id  %}" class = "thumbnail">
+            <button type="button" class="btn btn-sm btn-primary">{{cat.name}}</button>
+        </a>
+    {%  endfor %}
+    </div>
+    <hr>
+    <h3>All gifs</h3>
+
+    <div class = "row">
+    {% for gif in gifs %}
+        <div class = "col-md-2">
+            <a href = "#" class = "thumbnail">
+            <img src = '{{gif.url}}' class = "img-thumbnail" alt='{{ gif.title }}'>
+            </a>
+        </div>
+    {% endfor %}
+    </div>
+
+{% endblock %}

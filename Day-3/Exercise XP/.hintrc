@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "scroll-behavior",
+          "overflow-anchor"
+        ]
+      }
+    ]
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_ff <= 106",
+    "not ios_saf <= 14.8"
+  ]
+}

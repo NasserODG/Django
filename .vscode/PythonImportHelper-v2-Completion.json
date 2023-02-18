@@ -1,0 +1,3427 @@
+[
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "phonenumber_field.modelfields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "PhoneNumberField",
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "isExtraImport": true,
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "PhoneNumberField",
+        "importPath": "phonenumber_field.modelfields",
+        "description": "phonenumber_field.modelfields",
+        "isExtraImport": true,
+        "detail": "phonenumber_field.modelfields",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "phone.models",
+        "description": "phone.models",
+        "isExtraImport": true,
+        "detail": "phone.models",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "importPath": "phone.models",
+        "description": "phone.models",
+        "isExtraImport": true,
+        "detail": "phone.models",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "importPath": "info.models",
+        "description": "info.models",
+        "isExtraImport": true,
+        "detail": "info.models",
+        "documentation": {}
+    },
+    {
+        "label": "Family",
+        "importPath": "info.models",
+        "description": "info.models",
+        "isExtraImport": true,
+        "detail": "info.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "gifs.models",
+        "description": "gifs.models",
+        "isExtraImport": true,
+        "detail": "gifs.models",
+        "documentation": {}
+    },
+    {
+        "label": "Gif",
+        "importPath": "gifs.models",
+        "description": "gifs.models",
+        "isExtraImport": true,
+        "detail": "gifs.models",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "gifs",
+        "description": "gifs",
+        "isExtraImport": true,
+        "detail": "gifs",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Day-1.Account.account.migrations.0001_initial",
+        "description": "Day-1.Account.account.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "Day-1.Account.account.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountConfig",
+        "kind": 6,
+        "importPath": "Day-1.Account.account.apps",
+        "description": "Day-1.Account.account.apps",
+        "peekOfCode": "class AccountConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'account'",
+        "detail": "Day-1.Account.account.apps",
+        "documentation": {}
+    },
+    {
+        "label": "LoginForm",
+        "kind": 6,
+        "importPath": "Day-1.Account.account.forms",
+        "description": "Day-1.Account.account.forms",
+        "peekOfCode": "class LoginForm(forms.Form):\n    username = forms.CharField(max_length=63, label='Nom d\\'utilisateur')\n    password = forms.CharField(max_length=63, widget=forms.PasswordInput, label='Mot de passe')",
+        "detail": "Day-1.Account.account.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "Day-1.Account.account.models",
+        "description": "Day-1.Account.account.models",
+        "peekOfCode": "class User(AbstractUser):\n    ADMIN = 'ADMIN'\n    CUSTOMER = 'CUSTOMER'\n    ROLE = [(ADMIN, 'Admin'), (CUSTOMER, 'Customer')]\n    profile_photo = models.ImageField(verbose_name=\"Photo de profil\")\n    role = models.CharField(max_length = 50, choices=ROLE, verbose_name='Role')",
+        "detail": "Day-1.Account.account.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-1.Account.account.urls",
+        "description": "Day-1.Account.account.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.login_page, name='login_page')\n]",
+        "detail": "Day-1.Account.account.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_page",
+        "kind": 2,
+        "importPath": "Day-1.Account.account.views",
+        "description": "Day-1.Account.account.views",
+        "peekOfCode": "def login_page(request):\n    form = forms.LoginForm()\n    message = ''\n    if request.method == 'POST':\n        form = forms.LoginForm(request.POST)\n        if form.is_valid():\n            user = authenticate (\n                username = form.cleaned_data['username'],\n                password = form.cleaned_data['password'],\n            )   ",
+        "detail": "Day-1.Account.account.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.asgi",
+        "description": "Day-1.Account.ibam.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-1.Account.ibam.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-#bs$^d2n=!!(i3z%3q-2-pqc*_6%(cobl-*xu-4_ovso9+9d(j'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-#bs$^d2n=!!(i3z%3q-2-pqc*_6%(cobl-*xu-4_ovso9+9d(j'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'account'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'account'\n]\nMIDDLEWARE = [",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'ibam.urls'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "ROOT_URLCONF = 'ibam.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'ibam.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'projet',\n        'USER': 'postgres',\n        'PASSWORD': 'postgre',\n        'HOST': '127.0.0.1',",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'projet',\n        'USER': 'postgres',\n        'PASSWORD': 'postgre',\n        'HOST': '127.0.0.1',\n        'PORT': '5432',\n    }\n}",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATIC_ROOT = BASE_DIR / 'static'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATIC_ROOT = BASE_DIR / 'static'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")\n]",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATIC_ROOT = BASE_DIR / 'static'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")\n]\nMEDIA_URL = '/images/'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nSTATIC_ROOT = BASE_DIR / 'static'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR, \"ibam/static/images\")",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nSTATIC_ROOT = BASE_DIR / 'static'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR, \"ibam/static/images\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'static'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR, \"ibam/static/images\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'account.User'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR, \"ibam/static\")\n]\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR, \"ibam/static/images\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'account.User'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "MEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR, \"ibam/static/images\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'account.User'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, \"ibam/static/images\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'account.User'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'account.User'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.settings",
+        "description": "Day-1.Account.ibam.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'account.User'",
+        "detail": "Day-1.Account.ibam.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.urls",
+        "description": "Day-1.Account.ibam.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('account.urls'))\n]\nurlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "Day-1.Account.ibam.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-1.Account.ibam.wsgi",
+        "description": "Day-1.Account.ibam.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-1.Account.ibam.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-1.Account.manage",
+        "description": "Day-1.Account.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ibam.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-1.Account.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.asgi",
+        "description": "Day-1.Challenge.challenge.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-1.Challenge.challenge.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-ie7ma=ss0diy6n!hm9k8xj7*5i!+2c2t$(o8ce1cf(6x2!qqp)'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-ie7ma=ss0diy6n!hm9k8xj7*5i!+2c2t$(o8ce1cf(6x2!qqp)'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'people'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'people'\n]\nMIDDLEWARE = [",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'challenge.urls'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "ROOT_URLCONF = 'challenge.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'challenge.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.settings",
+        "description": "Day-1.Challenge.challenge.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Challenge.challenge.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.urls",
+        "description": "Day-1.Challenge.challenge.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('people.urls'))\n]",
+        "detail": "Day-1.Challenge.challenge.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.challenge.wsgi",
+        "description": "Day-1.Challenge.challenge.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-1.Challenge.challenge.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "PeopleConfig",
+        "kind": 6,
+        "importPath": "Day-1.Challenge.people.apps",
+        "description": "Day-1.Challenge.people.apps",
+        "peekOfCode": "class PeopleConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'people'",
+        "detail": "Day-1.Challenge.people.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.people.urls",
+        "description": "Day-1.Challenge.people.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name=\"home\" ),\n    path('people/', views.age, name=\"age\"),\n    path('people/<int:x>', views.id, name=\"people\"),\n    ]",
+        "detail": "Day-1.Challenge.people.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Day-1.Challenge.people.views",
+        "description": "Day-1.Challenge.people.views",
+        "peekOfCode": "def home(request):\n  context = {\n        \"data\": people,\n    }\n  return render(request, \"people/home.html\", context)\ndef age(request):\n    people1 = sorted(people, key = lambda d: d['age'])\n    context = {\n      \"data\":people1\n    }",
+        "detail": "Day-1.Challenge.people.views",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 2,
+        "importPath": "Day-1.Challenge.people.views",
+        "description": "Day-1.Challenge.people.views",
+        "peekOfCode": "def age(request):\n    people1 = sorted(people, key = lambda d: d['age'])\n    context = {\n      \"data\":people1\n    }\n    return render(request, \"people/age.html\", context)\ndef id(request, x):\n    people2 = []\n    for i in people:\n        if i['id'] == x:",
+        "detail": "Day-1.Challenge.people.views",
+        "documentation": {}
+    },
+    {
+        "label": "id",
+        "kind": 2,
+        "importPath": "Day-1.Challenge.people.views",
+        "description": "Day-1.Challenge.people.views",
+        "peekOfCode": "def id(request, x):\n    people2 = []\n    for i in people:\n        if i['id'] == x:\n          people2.append(i)\n    context = {\n      \"data\":people2\n    }\n    return render(request, \"people/id.html\", context)",
+        "detail": "Day-1.Challenge.people.views",
+        "documentation": {}
+    },
+    {
+        "label": "people",
+        "kind": 5,
+        "importPath": "Day-1.Challenge.people.views",
+        "description": "Day-1.Challenge.people.views",
+        "peekOfCode": "people = [\n  {\n    'id': 1,\n    'name': 'Bob Smith',\n    'age': 35,\n    'country': 'USA'\n  },\n  {\n    'id': 2,\n    'name': 'Martha Smith',",
+        "detail": "Day-1.Challenge.people.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-1.Challenge.manage",
+        "description": "Day-1.Challenge.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'challenge.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-1.Challenge.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.asgi",
+        "description": "Day-1.Exercise XP.animal-info.animals.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-1.Exercise XP.animal-info.animals.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-#n%+y^*(m)q2k-_j5upt2!mw%!#ffw^k=+(@z*gc-te19ez&l5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-#n%+y^*(m)q2k-_j5upt2!mw%!#ffw^k=+(@z*gc-te19ez&l5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'info'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'info'\n]\nMIDDLEWARE = [",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'animals.urls'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "ROOT_URLCONF = 'animals.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'animals.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.settings",
+        "description": "Day-1.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-1.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.urls",
+        "description": "Day-1.Exercise XP.animal-info.animals.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(\"info.urls\")),\n]",
+        "detail": "Day-1.Exercise XP.animal-info.animals.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.animals.wsgi",
+        "description": "Day-1.Exercise XP.animal-info.animals.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-1.Exercise XP.animal-info.animals.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "InfoConfig",
+        "kind": 6,
+        "importPath": "Day-1.Exercise XP.animal-info.info.apps",
+        "description": "Day-1.Exercise XP.animal-info.info.apps",
+        "peekOfCode": "class InfoConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'info'",
+        "detail": "Day-1.Exercise XP.animal-info.info.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.info.urls",
+        "description": "Day-1.Exercise XP.animal-info.info.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.home, name='home'),\n    path('family/<int:x>', views.family, name=\"family\" ),\n    path('animal/<int:y>', views.animals, name=\"animal\")\n]",
+        "detail": "Day-1.Exercise XP.animal-info.info.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Day-1.Exercise XP.animal-info.info.views",
+        "description": "Day-1.Exercise XP.animal-info.info.views",
+        "peekOfCode": "def home(request):\n    context ={\n        \"data\": data,\n        }\n    return render(request, \"info/home.html\", context)\ndef family(request, x):\n    list_family_animal = []\n    for value in data[\"animals\"]:\n        if value[\"family\"] == x:\n            list_family_animal.append(value)",
+        "detail": "Day-1.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "family",
+        "kind": 2,
+        "importPath": "Day-1.Exercise XP.animal-info.info.views",
+        "description": "Day-1.Exercise XP.animal-info.info.views",
+        "peekOfCode": "def family(request, x):\n    list_family_animal = []\n    for value in data[\"animals\"]:\n        if value[\"family\"] == x:\n            list_family_animal.append(value)\n    for val in data[\"families\"]:\n        if val[\"id\"] == x:\n            for va in list_family_animal:\n                va[\"family\"] = val[\"name\"] +\" id: \"+ str(x)\n    context = {",
+        "detail": "Day-1.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "animals",
+        "kind": 2,
+        "importPath": "Day-1.Exercise XP.animal-info.info.views",
+        "description": "Day-1.Exercise XP.animal-info.info.views",
+        "peekOfCode": "def animals(request, y):\n    list_animal = []\n    for value in data[\"animals\"]:\n        if value[\"id\"]==y:\n            list_animal.append(value)\n    for val in data[\"families\"]:\n        if val[\"id\"] == y:\n            for va in list_animal:\n                va[\"family\"] = val[\"name\"] +\" id: \"+ str(y)\n    context = {\"list\":list_animal}",
+        "detail": "Day-1.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "Day-1.Exercise XP.animal-info.info.views",
+        "description": "Day-1.Exercise XP.animal-info.info.views",
+        "peekOfCode": "data = {\n    \"animals\": [\n        {\n            \"id\" :1,\n            \"name\": \"Dog\",\n            \"legs\": 4,\n            \"weight\": 5.67,\n            \"height\":4.2,\n            \"speed\": 34,\n            \"family\": 2",
+        "detail": "Day-1.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-1.Exercise XP.animal-info.manage",
+        "description": "Day-1.Exercise XP.animal-info.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'animals.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-1.Exercise XP.animal-info.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.asgi",
+        "description": "Day-2.Challenge.number_phone.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-2.Challenge.number_phone.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-1+fl85kei!2708eoarq08zju#0br@ah#_8-ysb%_0_1j&ip^vk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-1+fl85kei!2708eoarq08zju#0br@ah#_8-ysb%_0_1j&ip^vk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'phone',",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'phone',\n    'phonenumber_field',\n    'crispy_forms'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'number_phone.urls'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "ROOT_URLCONF = 'number_phone.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'number_phone.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.settings",
+        "description": "Day-2.Challenge.number_phone.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Challenge.number_phone.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.urls",
+        "description": "Day-2.Challenge.number_phone.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('phone.urls'))\n]",
+        "detail": "Day-2.Challenge.number_phone.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.number_phone.wsgi",
+        "description": "Day-2.Challenge.number_phone.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-2.Challenge.number_phone.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Day-2.Challenge.phone.migrations.0001_initial",
+        "description": "Day-2.Challenge.phone.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Person',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=50)),",
+        "detail": "Day-2.Challenge.phone.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "PhoneConfig",
+        "kind": 6,
+        "importPath": "Day-2.Challenge.phone.apps",
+        "description": "Day-2.Challenge.phone.apps",
+        "peekOfCode": "class PhoneConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'phone'",
+        "detail": "Day-2.Challenge.phone.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PersonForm",
+        "kind": 6,
+        "importPath": "Day-2.Challenge.phone.forms",
+        "description": "Day-2.Challenge.phone.forms",
+        "peekOfCode": "class PersonForm(forms.ModelForm):\n    class Meta:\n        model = Person\n        fields = '__all__'",
+        "detail": "Day-2.Challenge.phone.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "Day-2.Challenge.phone.models",
+        "description": "Day-2.Challenge.phone.models",
+        "peekOfCode": "class Person(models.Model):\n    name = models.CharField( max_length=50)\n    email = models.CharField(max_length=50)\n    phone = PhoneNumberField()\n    adresse = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name",
+        "detail": "Day-2.Challenge.phone.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-2.Challenge.phone.urls",
+        "description": "Day-2.Challenge.phone.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', views.home, name=\"home\"),\n    path('phone/phonenumber/<number>', views.phonenumber, name='phonenumber'),\n    path('phone/name/<name>', views.name, name='name'),\n    path('add', views.add_person, name=\"add\"),\n]",
+        "detail": "Day-2.Challenge.phone.urls",
+        "documentation": {}
+    },
+    {
+        "label": "phonenumber",
+        "kind": 2,
+        "importPath": "Day-2.Challenge.phone.views",
+        "description": "Day-2.Challenge.phone.views",
+        "peekOfCode": "def phonenumber(request, number):\n    person = Person.objects.filter(phone = number)\n    if len(person) != 0:\n        return render(request, \"phone/phonenumber.html\", {'personnes': person})\n    else:\n        return HttpResponse(f\"This Number {number} does not exist in database\")\ndef name(request, name):\n    person = Person.objects.filter(name = name)\n    if len(person) != 0:\n        return render(request, \"phone/name.html\", {'personnes': person})",
+        "detail": "Day-2.Challenge.phone.views",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 2,
+        "importPath": "Day-2.Challenge.phone.views",
+        "description": "Day-2.Challenge.phone.views",
+        "peekOfCode": "def name(request, name):\n    person = Person.objects.filter(name = name)\n    if len(person) != 0:\n        return render(request, \"phone/name.html\", {'personnes': person})\n    else:\n        return HttpResponse(f\"This name {name} does not exist in database\")\ndef home(request):\n    personnes = Person.objects.all()\n    return render(request, \"phone/home.html\", {'personnes': personnes})\ndef add_person(request):",
+        "detail": "Day-2.Challenge.phone.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Day-2.Challenge.phone.views",
+        "description": "Day-2.Challenge.phone.views",
+        "peekOfCode": "def home(request):\n    personnes = Person.objects.all()\n    return render(request, \"phone/home.html\", {'personnes': personnes})\ndef add_person(request):\n    if request.method==\"POST\":\n        form = PersonForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, \"Person added !\")\n            return redirect('home')",
+        "detail": "Day-2.Challenge.phone.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_person",
+        "kind": 2,
+        "importPath": "Day-2.Challenge.phone.views",
+        "description": "Day-2.Challenge.phone.views",
+        "peekOfCode": "def add_person(request):\n    if request.method==\"POST\":\n        form = PersonForm(request.POST)\n        if form.is_valid():\n            form.save()\n            messages.success(request, \"Person added !\")\n            return redirect('home')\n        else:\n            return render(request, 'phone/add_person.html', {\"form\":form})\n    else:",
+        "detail": "Day-2.Challenge.phone.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-2.Challenge.manage",
+        "description": "Day-2.Challenge.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'number_phone.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-2.Challenge.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.asgi",
+        "description": "Day-2.Exercise XP.animal-info.animals.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-2.Exercise XP.animal-info.animals.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-dn-_4tkd9^h%w!%%^p$j&38n-=jfg#$t##$o%nnyv-6x0bs9@x'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-dn-_4tkd9^h%w!%%^p$j&38n-=jfg#$t##$o%nnyv-6x0bs9@x'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'info'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'info'\n]\nMIDDLEWARE = [",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'animals.urls'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "ROOT_URLCONF = 'animals.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'animals.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.settings",
+        "description": "Day-2.Exercise XP.animal-info.animals.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-2.Exercise XP.animal-info.animals.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.urls",
+        "description": "Day-2.Exercise XP.animal-info.animals.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(\"info.urls\"))\n]",
+        "detail": "Day-2.Exercise XP.animal-info.animals.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.animals.wsgi",
+        "description": "Day-2.Exercise XP.animal-info.animals.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-2.Exercise XP.animal-info.animals.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Day-2.Exercise XP.animal-info.info.migrations.0001_initial",
+        "description": "Day-2.Exercise XP.animal-info.info.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Family',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nameA', models.CharField(max_length=150)),",
+        "detail": "Day-2.Exercise XP.animal-info.info.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "InfoConfig",
+        "kind": 6,
+        "importPath": "Day-2.Exercise XP.animal-info.info.apps",
+        "description": "Day-2.Exercise XP.animal-info.info.apps",
+        "peekOfCode": "class InfoConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'info'",
+        "detail": "Day-2.Exercise XP.animal-info.info.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Family",
+        "kind": 6,
+        "importPath": "Day-2.Exercise XP.animal-info.info.models",
+        "description": "Day-2.Exercise XP.animal-info.info.models",
+        "peekOfCode": "class Family(models.Model):\n    nameA = models.CharField(max_length=150)\nclass Animal(models.Model):\n    nameF = models.CharField(max_length = 150)\n    legs = models.IntegerField(default=2)\n    weight = models.IntegerField(default=55)\n    height = models.IntegerField(default=65)\n    speed = models.IntegerField(default=78)\n    family_fk = models.ForeignKey(Family, on_delete=models.CASCADE)",
+        "detail": "Day-2.Exercise XP.animal-info.info.models",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "Day-2.Exercise XP.animal-info.info.models",
+        "description": "Day-2.Exercise XP.animal-info.info.models",
+        "peekOfCode": "class Animal(models.Model):\n    nameF = models.CharField(max_length = 150)\n    legs = models.IntegerField(default=2)\n    weight = models.IntegerField(default=55)\n    height = models.IntegerField(default=65)\n    speed = models.IntegerField(default=78)\n    family_fk = models.ForeignKey(Family, on_delete=models.CASCADE)",
+        "detail": "Day-2.Exercise XP.animal-info.info.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-2.Exercise XP.animal-info.info.urls",
+        "description": "Day-2.Exercise XP.animal-info.info.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('animals/', views.home, name='home'),\n    path('family/<int:x>', views.family, name=\"family\" ),\n    path('animal/<int:y>', views.animals, name=\"animal\")\n]",
+        "detail": "Day-2.Exercise XP.animal-info.info.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Day-2.Exercise XP.animal-info.info.views",
+        "description": "Day-2.Exercise XP.animal-info.info.views",
+        "peekOfCode": "def home(request):\n    data = Animal.objects.all()\n    context ={\n        \"data\": data,\n        }\n    return render(request, \"info/home.html\", context)\ndef family(request, x):\n    data2 = Family.objects.get(id = x)\n    data = Animal.objects.filter(family_fk_id = x)\n    family_name = data2.nameA",
+        "detail": "Day-2.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "family",
+        "kind": 2,
+        "importPath": "Day-2.Exercise XP.animal-info.info.views",
+        "description": "Day-2.Exercise XP.animal-info.info.views",
+        "peekOfCode": "def family(request, x):\n    data2 = Family.objects.get(id = x)\n    data = Animal.objects.filter(family_fk_id = x)\n    family_name = data2.nameA\n    context = {\n        \"list\" : data,\n        \"name\": family_name\n    }\n    return render(request, \"info/family.html\", context)\ndef animals(request, y):",
+        "detail": "Day-2.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "animals",
+        "kind": 2,
+        "importPath": "Day-2.Exercise XP.animal-info.info.views",
+        "description": "Day-2.Exercise XP.animal-info.info.views",
+        "peekOfCode": "def animals(request, y):\n    data = Animal.objects.get(id=y)\n    x = data.family_fk_id\n    data2 = Family.objects.get(id = x)\n    family_name = data2.nameA\n    context = {\n        \"data\":data,\n        \"name\": family_name\n        }\n    return render(request, \"info/animal.html\", context)",
+        "detail": "Day-2.Exercise XP.animal-info.info.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-2.Exercise XP.animal-info.manage",
+        "description": "Day-2.Exercise XP.animal-info.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'animals.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-2.Exercise XP.animal-info.manage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Day-3.Challenge.gifs.migrations.0001_initial",
+        "description": "Day-3.Challenge.gifs.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=30, unique=True)),",
+        "detail": "Day-3.Challenge.gifs.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "GifsConfig",
+        "kind": 6,
+        "importPath": "Day-3.Challenge.gifs.apps",
+        "description": "Day-3.Challenge.gifs.apps",
+        "peekOfCode": "class GifsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'gifs'",
+        "detail": "Day-3.Challenge.gifs.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryForm",
+        "kind": 6,
+        "importPath": "Day-3.Challenge.gifs.forms",
+        "description": "Day-3.Challenge.gifs.forms",
+        "peekOfCode": "class CategoryForm(forms.Form):\n    name = forms.CharField(max_length = 30)\nclass GifForm(forms.Form):\n    title = forms.CharField(max_length = 100)\n    url = forms.URLField()\n    uploader_name = forms.CharField(max_length = 50)\n    category = forms.ModelMultipleChoiceField(queryset=Category.objects.all())",
+        "detail": "Day-3.Challenge.gifs.forms",
+        "documentation": {}
+    },
+    {
+        "label": "GifForm",
+        "kind": 6,
+        "importPath": "Day-3.Challenge.gifs.forms",
+        "description": "Day-3.Challenge.gifs.forms",
+        "peekOfCode": "class GifForm(forms.Form):\n    title = forms.CharField(max_length = 100)\n    url = forms.URLField()\n    uploader_name = forms.CharField(max_length = 50)\n    category = forms.ModelMultipleChoiceField(queryset=Category.objects.all())",
+        "detail": "Day-3.Challenge.gifs.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "Day-3.Challenge.gifs.models",
+        "description": "Day-3.Challenge.gifs.models",
+        "peekOfCode": "class Category(models.Model):\n    name = models.CharField(max_length = 30, unique = True)\n    def __str__(self):\n        return self.name\nclass Gif(models.Model):\n    title = models.CharField(max_length = 100)\n    url = models.URLField()\n    uploader_name = models.CharField(max_length = 50)\n    created_at = models.DateTimeField(auto_now_add = True)\n    category = models.ManyToManyField(Category)",
+        "detail": "Day-3.Challenge.gifs.models",
+        "documentation": {}
+    },
+    {
+        "label": "Gif",
+        "kind": 6,
+        "importPath": "Day-3.Challenge.gifs.models",
+        "description": "Day-3.Challenge.gifs.models",
+        "peekOfCode": "class Gif(models.Model):\n    title = models.CharField(max_length = 100)\n    url = models.URLField()\n    uploader_name = models.CharField(max_length = 50)\n    created_at = models.DateTimeField(auto_now_add = True)\n    category = models.ManyToManyField(Category)\n    def __str__(self):\n        return f\"{self.title}\"",
+        "detail": "Day-3.Challenge.gifs.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.urls",
+        "description": "Day-3.Challenge.gifs.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.homepage, name = 'homepage'),\n    path('homepage/', views.homepage, name = 'homepage'),\n    path('category/<int:category_id>/', views.category, name = 'category'),\n    path('gif/<int:gif_id>/', views.gif, name = 'gif'),\n    path('add_category/', views.add_category, name = 'add_category'),\n    path('add_gif/', views.add_gif, name = 'add_gif'),\n]",
+        "detail": "Day-3.Challenge.gifs.urls",
+        "documentation": {}
+    },
+    {
+        "label": "homepage",
+        "kind": 2,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "def homepage(request):\n\tcontext = { 'gifs': Gif.objects.all(), 'categories': Category.objects.all() }\n\treturn render(request, 'homepage.html', context)\ndef category(request, category_id):\n\treturn render(request, 'category.html', { 'category': Category.objects.get(id = category_id) })\ndef gif(request, gif_id):\n\treturn render(request, 'gif.html', { 'gif': Gif.objects.get(id = gif_id) })\ndef add_category(request):\n\tif request.method == 'GET':\n\t\tform = CategoryForm()",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "kind": 2,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "def category(request, category_id):\n\treturn render(request, 'category.html', { 'category': Category.objects.get(id = category_id) })\ndef gif(request, gif_id):\n\treturn render(request, 'gif.html', { 'gif': Gif.objects.get(id = gif_id) })\ndef add_category(request):\n\tif request.method == 'GET':\n\t\tform = CategoryForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Category' })\n\tif request.method == 'POST':\n\t\tform = CategoryForm(request.POST)",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "gif",
+        "kind": 2,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "def gif(request, gif_id):\n\treturn render(request, 'gif.html', { 'gif': Gif.objects.get(id = gif_id) })\ndef add_category(request):\n\tif request.method == 'GET':\n\t\tform = CategoryForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Category' })\n\tif request.method == 'POST':\n\t\tform = CategoryForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tcat = Category.objects.create(name=form.cleaned_data['name'])",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_category",
+        "kind": 2,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "def add_category(request):\n\tif request.method == 'GET':\n\t\tform = CategoryForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Category' })\n\tif request.method == 'POST':\n\t\tform = CategoryForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tcat = Category.objects.create(name=form.cleaned_data['name'])\n\t\treturn redirect('category', cat.id)\ndef add_gif(request):",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_gif",
+        "kind": 2,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "def add_gif(request):\n\tif request.method == 'GET':\n\t\tform = GifForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Gif' })\n\tif request.method == 'POST':\n\t\tform = GifForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tgif = Gif.objects.create(title = form.cleaned_data['title'], url = form.cleaned_data['url'], uploader_name = form.cleaned_data['uploader_name'])\n\t\t\tgif.category.set(form.cleaned_data['category'])\n\t\treturn redirect('gif', gif.id)",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tcontext",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\tcontext = { 'gifs': Gif.objects.all(), 'categories': Category.objects.all() }\n\treturn render(request, 'homepage.html', context)\ndef category(request, category_id):\n\treturn render(request, 'category.html', { 'category': Category.objects.get(id = category_id) })\ndef gif(request, gif_id):\n\treturn render(request, 'gif.html', { 'gif': Gif.objects.get(id = gif_id) })\ndef add_category(request):\n\tif request.method == 'GET':\n\t\tform = CategoryForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Category' })",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\t\tform = CategoryForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Category' })\n\tif request.method == 'POST':\n\t\tform = CategoryForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tcat = Category.objects.create(name=form.cleaned_data['name'])\n\t\treturn redirect('category', cat.id)\ndef add_gif(request):\n\tif request.method == 'GET':\n\t\tform = GifForm()",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\t\tform = CategoryForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tcat = Category.objects.create(name=form.cleaned_data['name'])\n\t\treturn redirect('category', cat.id)\ndef add_gif(request):\n\tif request.method == 'GET':\n\t\tform = GifForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Gif' })\n\tif request.method == 'POST':\n\t\tform = GifForm(request.POST)",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tcat",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\t\t\tcat = Category.objects.create(name=form.cleaned_data['name'])\n\t\treturn redirect('category', cat.id)\ndef add_gif(request):\n\tif request.method == 'GET':\n\t\tform = GifForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Gif' })\n\tif request.method == 'POST':\n\t\tform = GifForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tgif = Gif.objects.create(title = form.cleaned_data['title'], url = form.cleaned_data['url'], uploader_name = form.cleaned_data['uploader_name'])",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\t\tform = GifForm()\n\t\treturn render(request, 'add.html', { 'form':form, 'add_type':'Gif' })\n\tif request.method == 'POST':\n\t\tform = GifForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tgif = Gif.objects.create(title = form.cleaned_data['title'], url = form.cleaned_data['url'], uploader_name = form.cleaned_data['uploader_name'])\n\t\t\tgif.category.set(form.cleaned_data['category'])\n\t\treturn redirect('gif', gif.id)",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\t\tform = GifForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tgif = Gif.objects.create(title = form.cleaned_data['title'], url = form.cleaned_data['url'], uploader_name = form.cleaned_data['uploader_name'])\n\t\t\tgif.category.set(form.cleaned_data['category'])\n\t\treturn redirect('gif', gif.id)",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tgif",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs.views",
+        "description": "Day-3.Challenge.gifs.views",
+        "peekOfCode": "\t\t\tgif = Gif.objects.create(title = form.cleaned_data['title'], url = form.cleaned_data['url'], uploader_name = form.cleaned_data['uploader_name'])\n\t\t\tgif.category.set(form.cleaned_data['category'])\n\t\treturn redirect('gif', gif.id)",
+        "detail": "Day-3.Challenge.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.asgi",
+        "description": "Day-3.Challenge.gifs_proj.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-3.Challenge.gifs_proj.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-aeqrcjt8mn3xfg*x5)o*l%&n6)kvav!4r%#q+=6(lg6qdxoe&z'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-aeqrcjt8mn3xfg*x5)o*l%&n6)kvav!4r%#q+=6(lg6qdxoe&z'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'gifs',",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'gifs',\n]\nMIDDLEWARE = [",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'gifs_proj.urls'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "ROOT_URLCONF = 'gifs_proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'gifs_proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.settings",
+        "description": "Day-3.Challenge.gifs_proj.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Challenge.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.urls",
+        "description": "Day-3.Challenge.gifs_proj.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('gifs.urls')),\n]",
+        "detail": "Day-3.Challenge.gifs_proj.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-3.Challenge.gifs_proj.wsgi",
+        "description": "Day-3.Challenge.gifs_proj.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-3.Challenge.gifs_proj.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-3.Challenge.manage",
+        "description": "Day-3.Challenge.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gifs_proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-3.Challenge.manage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Day-3.Exercise XP.gifs.migrations.0001_initial",
+        "description": "Day-3.Exercise XP.gifs.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Gif',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100, null=True)),",
+        "detail": "Day-3.Exercise XP.gifs.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "GifsConfig",
+        "kind": 6,
+        "importPath": "Day-3.Exercise XP.gifs.apps",
+        "description": "Day-3.Exercise XP.gifs.apps",
+        "peekOfCode": "class GifsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'gifs'",
+        "detail": "Day-3.Exercise XP.gifs.apps",
+        "documentation": {}
+    },
+    {
+        "label": "GifForm",
+        "kind": 6,
+        "importPath": "Day-3.Exercise XP.gifs.forms",
+        "description": "Day-3.Exercise XP.gifs.forms",
+        "peekOfCode": "class GifForm(forms.ModelForm):\n     class Meta:\n        models = Gif\n        fields = ('title', 'url', 'uploader_name', 'categories = forms.ModelMultipleChoiceField(queryset=None)')\nclass CategoryForm(forms.ModelForm):\n    class Meta:\n        models = Category\n        fields = ('name = models.CharField(max_length=100, null=True)',)",
+        "detail": "Day-3.Exercise XP.gifs.forms",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryForm",
+        "kind": 6,
+        "importPath": "Day-3.Exercise XP.gifs.forms",
+        "description": "Day-3.Exercise XP.gifs.forms",
+        "peekOfCode": "class CategoryForm(forms.ModelForm):\n    class Meta:\n        models = Category\n        fields = ('name = models.CharField(max_length=100, null=True)',)",
+        "detail": "Day-3.Exercise XP.gifs.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Gif",
+        "kind": 6,
+        "importPath": "Day-3.Exercise XP.gifs.models",
+        "description": "Day-3.Exercise XP.gifs.models",
+        "peekOfCode": "class Gif(models.Model):\n    title = models.CharField(max_length=100, null=True)\n    url = models.URLField()\n    uploader_name = models.CharField(max_length=120, null=True)\n    created_at = models.DateTimeField()\n    def __str__(self):\n        return self.title\nclass Category(models.Model):\n    name = models.CharField(max_length=100, null=True)\n    gifs = models.ManyToManyField(Gif, related_name='categories', blank=True)",
+        "detail": "Day-3.Exercise XP.gifs.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "Day-3.Exercise XP.gifs.models",
+        "description": "Day-3.Exercise XP.gifs.models",
+        "peekOfCode": "class Category(models.Model):\n    name = models.CharField(max_length=100, null=True)\n    gifs = models.ManyToManyField(Gif, related_name='categories', blank=True)\n    def __str__(self):\n        return self.name",
+        "detail": "Day-3.Exercise XP.gifs.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs.urls",
+        "description": "Day-3.Exercise XP.gifs.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.gif, name=\"gif\"),\n    path('gif_method/<int:id>', views.gif_method, name=\"git_method\"),\n    path('category/', views.category, name=\"category\"),\n    path('category_method/<int:id>', views.category_method, name=\"category_method\"),\n    path('AddCategory/', views.AddCategory, name=\"AddCategory\"),\n    path('AddGif-<str:name>/,', views.AddGif, name=\"AddGif\"),\n]",
+        "detail": "Day-3.Exercise XP.gifs.urls",
+        "documentation": {}
+    },
+    {
+        "label": "gif",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.gifs.views",
+        "description": "Day-3.Exercise XP.gifs.views",
+        "peekOfCode": "def gif(request):\n    gif_all = Gif.objects.all()\n    return render(request, 'gif/Homepage_view.html', { \"git_all\": gif_all})\ndef gif_method(request, id):\n    gif_meth = Gif.objects.get(id=id)\n    return render(request, 'gif/gif_view.html', {\"gif_meth\": gif_meth})\ndef category(request):\n    categorie = Category.objects.all()\n    return render (request, 'git/category_view.html', {\"categorie\": categorie})\ndef category_method(request, id):",
+        "detail": "Day-3.Exercise XP.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "gif_method",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.gifs.views",
+        "description": "Day-3.Exercise XP.gifs.views",
+        "peekOfCode": "def gif_method(request, id):\n    gif_meth = Gif.objects.get(id=id)\n    return render(request, 'gif/gif_view.html', {\"gif_meth\": gif_meth})\ndef category(request):\n    categorie = Category.objects.all()\n    return render (request, 'git/category_view.html', {\"categorie\": categorie})\ndef category_method(request, id):\n    cat_meth = Category.objects.get(id=id)\n    return render (request, 'gif/category_list_view.html', {\"cat_meth\": cat_meth})\ndef AddCategory(request, name):",
+        "detail": "Day-3.Exercise XP.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.gifs.views",
+        "description": "Day-3.Exercise XP.gifs.views",
+        "peekOfCode": "def category(request):\n    categorie = Category.objects.all()\n    return render (request, 'git/category_view.html', {\"categorie\": categorie})\ndef category_method(request, id):\n    cat_meth = Category.objects.get(id=id)\n    return render (request, 'gif/category_list_view.html', {\"cat_meth\": cat_meth})\ndef AddCategory(request, name):\n    categorie = Category.objects.get(name=name)\n    if request.method == 'POST':\n        form = CategoryForm(request.POST)",
+        "detail": "Day-3.Exercise XP.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "category_method",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.gifs.views",
+        "description": "Day-3.Exercise XP.gifs.views",
+        "peekOfCode": "def category_method(request, id):\n    cat_meth = Category.objects.get(id=id)\n    return render (request, 'gif/category_list_view.html', {\"cat_meth\": cat_meth})\ndef AddCategory(request, name):\n    categorie = Category.objects.get(name=name)\n    if request.method == 'POST':\n        form = CategoryForm(request.POST)\n        if form.is_valid():\n            form.save()\n            form = CategoryForm()",
+        "detail": "Day-3.Exercise XP.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddCategory",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.gifs.views",
+        "description": "Day-3.Exercise XP.gifs.views",
+        "peekOfCode": "def AddCategory(request, name):\n    categorie = Category.objects.get(name=name)\n    if request.method == 'POST':\n        form = CategoryForm(request.POST)\n        if form.is_valid():\n            form.save()\n            form = CategoryForm()\n    else :\n        form = CategoryForm()\n    context = {",
+        "detail": "Day-3.Exercise XP.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "AddGif",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.gifs.views",
+        "description": "Day-3.Exercise XP.gifs.views",
+        "peekOfCode": "def AddGif(request, name):\n    gif = Gif.objects.get(name=name)\n    if request.method == 'POST':\n        form = GifForm(request.POST)\n        if form.is_valid():\n            form.save()\n            form = GifForm()\n    else :\n        form = GifForm()\n    context = {",
+        "detail": "Day-3.Exercise XP.gifs.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.asgi",
+        "description": "Day-3.Exercise XP.gifs_proj.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-3.Exercise XP.gifs_proj.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-b8czaixh!7+s8l&f*u9-8^lbzb=&q$qywc3##bm9x^$5nn*2c^'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-b8czaixh!7+s8l&f*u9-8^lbzb=&q$qywc3##bm9x^$5nn*2c^'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'gifs'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'gifs'\n]\nMIDDLEWARE = [",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'gifs_proj.urls'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "ROOT_URLCONF = 'gifs_proj.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'gifs_proj.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.settings",
+        "description": "Day-3.Exercise XP.gifs_proj.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-3.Exercise XP.gifs_proj.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.urls",
+        "description": "Day-3.Exercise XP.gifs_proj.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('gifs.urls'))\n]",
+        "detail": "Day-3.Exercise XP.gifs_proj.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-3.Exercise XP.gifs_proj.wsgi",
+        "description": "Day-3.Exercise XP.gifs_proj.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-3.Exercise XP.gifs_proj.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-3.Exercise XP.manage",
+        "description": "Day-3.Exercise XP.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gifs_proj.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-3.Exercise XP.manage",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.asgi",
+        "description": "Day-5.Exercise XP.bike_store.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Day-5.Exercise XP.bike_store.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-417%%gy^ls%qvy8lv(b0_d#ixy8tdaf8!l_b#z_h72jcp4)3@5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-417%%gy^ls%qvy8lv(b0_d#ixy8tdaf8!l_b#z_h72jcp4)3@5'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rent'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rent'\n]\nMIDDLEWARE = [",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'bike_store.urls'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "ROOT_URLCONF = 'bike_store.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'bike_store.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.settings",
+        "description": "Day-5.Exercise XP.bike_store.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Day-5.Exercise XP.bike_store.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.urls",
+        "description": "Day-5.Exercise XP.bike_store.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]",
+        "detail": "Day-5.Exercise XP.bike_store.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Day-5.Exercise XP.bike_store.wsgi",
+        "description": "Day-5.Exercise XP.bike_store.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Day-5.Exercise XP.bike_store.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "RentConfig",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.apps",
+        "description": "Day-5.Exercise XP.rent.apps",
+        "peekOfCode": "class RentConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'rent'",
+        "detail": "Day-5.Exercise XP.rent.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.models",
+        "description": "Day-5.Exercise XP.rent.models",
+        "peekOfCode": "class Customer(models.Model):\n    first_name = models.CharField(max_length=80)\n    last_name = models.CharField(max_length=150)\n    email = models.EmailField(max_length=253)\n    phone_number = PhoneNumberField()\n    address = models.CharField(max_length=70)\n    city = models.CharField(max_length=60)\n    country = models.CharField(max_length=40)\n    def __str__(self):\n        return self.first_name + ' ' + self.last_name",
+        "detail": "Day-5.Exercise XP.rent.models",
+        "documentation": {}
+    },
+    {
+        "label": "VehiculeType",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.models",
+        "description": "Day-5.Exercise XP.rent.models",
+        "peekOfCode": "class VehiculeType(models.Model):\n    name = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name    \n# Vehicule size's class  \nclass VehiculeSize(models.Model):\n    name = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name\n# Vehicule's class",
+        "detail": "Day-5.Exercise XP.rent.models",
+        "documentation": {}
+    },
+    {
+        "label": "VehiculeSize",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.models",
+        "description": "Day-5.Exercise XP.rent.models",
+        "peekOfCode": "class VehiculeSize(models.Model):\n    name = models.CharField(max_length=50)\n    def __str__(self):\n        return self.name\n# Vehicule's class\nclass Vehicule(models.Model):\n    vehicule_type = models.ForeignKey(VehiculeType, related_name=\"Type\", on_delete=models.CASCADE)\n    date_created = models.DateTimeField(auto_now_add=True)\n    real_cost = models.FloatField()\n    vehicule_size = models.ForeignKey(VehiculeSize, related_name=\"Size\", on_delete=models.CASCADE)",
+        "detail": "Day-5.Exercise XP.rent.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicule",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.models",
+        "description": "Day-5.Exercise XP.rent.models",
+        "peekOfCode": "class Vehicule(models.Model):\n    vehicule_type = models.ForeignKey(VehiculeType, related_name=\"Type\", on_delete=models.CASCADE)\n    date_created = models.DateTimeField(auto_now_add=True)\n    real_cost = models.FloatField()\n    vehicule_size = models.ForeignKey(VehiculeSize, related_name=\"Size\", on_delete=models.CASCADE)\n    def __str__(self):\n        return str(self.vehicule_type)    \n# Rental's class\nclass Rental(models.Model):\n    rental_date = models.DateTimeField(auto_now_add=True)",
+        "detail": "Day-5.Exercise XP.rent.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rental",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.models",
+        "description": "Day-5.Exercise XP.rent.models",
+        "peekOfCode": "class Rental(models.Model):\n    rental_date = models.DateTimeField(auto_now_add=True)\n    return_date = models.DateTimeField()\n    customer = models.ForeignKey(Customer, related_name=\"customer\", on_delete=models.CASCADE)\n    vehicule = models.ForeignKey(Vehicule, related_name=\"vehicule\", on_delete=models.CASCADE)\n    def __str__(self):\n        return str(self.vehicule)\n    class Meta:\n        ordering = ['rental_date']\n# Rental rate's class",
+        "detail": "Day-5.Exercise XP.rent.models",
+        "documentation": {}
+    },
+    {
+        "label": "RentalRate",
+        "kind": 6,
+        "importPath": "Day-5.Exercise XP.rent.models",
+        "description": "Day-5.Exercise XP.rent.models",
+        "peekOfCode": "class RentalRate(models.Model):\n    dayli_rate = models.FloatField()\n    vehicule_type = models.ForeignKey(VehiculeType, on_delete=models.CASCADE)\n    vehicule_size = models.ForeignKey(VehiculeSize, on_delete=models.CASCADE)\n    def __str__(self):\n        return str(self.vehicule_type)",
+        "detail": "Day-5.Exercise XP.rent.models",
+        "documentation": {}
+    },
+    {
+        "label": "faker_customer_view",
+        "kind": 2,
+        "importPath": "Day-5.Exercise XP.rent.views",
+        "description": "Day-5.Exercise XP.rent.views",
+        "peekOfCode": "def faker_customer_view():\n    fake = Faker()\n    for _ in range(40):\n        customer = Customer (\n            first_name = fake.first_name(),\n            last_name = fake.last_name(),\n            email = fake.email(),\n            phone_number = fake.phone_number(),\n            address = fake.address(),\n            city = fake.city(),",
+        "detail": "Day-5.Exercise XP.rent.views",
+        "documentation": {}
+    },
+    {
+        "label": "vehiculeList_view",
+        "kind": 2,
+        "importPath": "Day-5.Exercise XP.rent.views",
+        "description": "Day-5.Exercise XP.rent.views",
+        "peekOfCode": "def vehiculeList_view(request, id):\n    if id == 0:\n        vehicule = Vehicule.objects.all()\n        page = Paginator(vehicule, 4)    \n        pge = request.GET.get('page')\n        cust = page.get_page(pge)\n        var = 0\n        return render(request, 'rent/vehiculeList.html', {'models': cust, 'len': var})\n    else:\n        vehicule = Vehicule.objects.filter(id=id)",
+        "detail": "Day-5.Exercise XP.rent.views",
+        "documentation": {}
+    },
+    {
+        "label": "addVehicule_view",
+        "kind": 2,
+        "importPath": "Day-5.Exercise XP.rent.views",
+        "description": "Day-5.Exercise XP.rent.views",
+        "peekOfCode": "def addVehicule_view(request):\n        if request.method == 'POST':\n            form = CustomerForm(request.POST)\n            vehicule = Vehicule.objects.all()\n            page = Paginator(vehicule, 4)\n            pge = request.GET.get('page')\n            cust = page.get_page(pge)\n            if form.is_valid():\n                form.save()\n                messages.success(request, \"Vehicule added !\")",
+        "detail": "Day-5.Exercise XP.rent.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Day-5.Exercise XP.manage",
+        "description": "Day-5.Exercise XP.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'bike_store.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Day-5.Exercise XP.manage",
+        "documentation": {}
+    }
+]

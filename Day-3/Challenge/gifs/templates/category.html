@@ -1,0 +1,21 @@
+{% extends 'base.html' %} 
+
+{% block title%}
+Category - {{ category.name }}
+{% endblock %} 
+
+{% block content %}
+
+    <h1>Gifs attached to Category: {{ category.name }}</h1> 
+
+    <div class = "row">
+        {% for gif in category.gif_set.all %}
+            <div class = "col-md-2">
+                <a href = "{% url 'gif' gif.id  %}" class = "thumbnail">
+                    <img src = '{{gif.url}}' class = "img-thumbnail" alt='{{ gif.title }}'>
+                </a>
+            </div>
+        {% endfor %}
+    </div>
+
+{% endblock %}

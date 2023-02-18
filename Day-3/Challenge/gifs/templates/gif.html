@@ -1,0 +1,25 @@
+{% extends 'base.html' %} 
+
+{% block title%}Details for Gif {{gif.id}}{% endblock %} 
+
+{% block content %}
+
+    <h1>Details for Gif {{gif.id}}</h1>
+
+    <ul>    
+        <li>Title: {{ gif.title }}</li>
+        <li>Uploader: {{ gif.uploader_name }}</li>
+        <li>Creation: {{ gif.created_at }}</li>
+    </ul>
+    <img src='{{gif.url}}' class="img-thumbnail" alt='{{ gif.title }}'>
+    <hr>
+    <h6>This gif is attached to the following categories:</h6>
+    <div>
+        {% for cat in gif.category.all %}
+            <a href = "{% url 'category' cat.id  %}" class = "thumbnail">
+                <button type="button" class="btn btn-sm btn-primary">{{cat.name}}</button>
+            </a>
+        {%  endfor %}
+    </div>
+
+{% endblock %}

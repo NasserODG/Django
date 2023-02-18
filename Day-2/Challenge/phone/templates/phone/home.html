@@ -1,0 +1,38 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    
+	<title>
+			{% block title %}Personne{% endblock title %}
+	</title>
+    
+	<link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}" integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+	<h1>All person and number</h1>
+    
+	<a href="{% url 'add' %}">Add new phone<a>
+		
+<table class = "table table-striped">
+	<tr>
+		<th>id</th>
+		<th>name</th>
+		<th>phone</th>
+	</tr>
+
+	{% for personne in personnes %}
+	<tr>
+		<td>{{personne.id}}</td>
+		<td><a href="{% url 'name' personne.name%}">{{personne.name}}</a></td>
+		<td><a href="{% url 'phonenumber' personne.phone  %}">{{personne.phone}}</a></td>
+		
+	</tr>
+	{% endfor %}
+   
+</table>
+</body>
+</html>
